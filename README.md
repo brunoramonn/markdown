@@ -20,4 +20,8 @@ Sou incentivadora de mulheres na tecnologia, participo de uma grande e acolhedor
 <p>Apaixonada por viagens, natureza e vinho. Gosto de música, e na minha playlist não pode faltar Metallica, Raça Negra e Alceu Valença.
 Uma bizarrice: Ando e falo dormindo. É o que dizem ahaha.
 <p>Se quiser conversar eu sempre animo!
-  <p>É isso, feliz por estar aqui.
+<p>É isso, feliz por estar aqui.
+  
+  <3
+
+    
