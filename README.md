@@ -5,7 +5,7 @@ Repositorio para teste de MarkDown
 
 **Apelido: Ellen**
 
-**Email Trybe: ellen.silva@betrybe.com**
+**Email Trybe: ellen@gmail.com**
 
 **Linkedin: https://www.linkedin.com/in/ellensanttis/**
 
