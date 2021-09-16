@@ -22,6 +22,6 @@ Uma bizarrice: Ando e falo dormindo. É o que dizem ahaha.
 <p>Se quiser conversar eu sempre animo!
 <p>É isso, feliz por estar aqui.
   
-  <3
+  <3<3
 
     
